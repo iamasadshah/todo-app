@@ -1,0 +1,29 @@
+.heading {
+  font-weight: 700;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input {
+  width: 100%;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.kg-btn {
+  min-width: 80px;
+}
+.kg-row {
+  margin: 10px 5px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+button {
+  font-family: "Times New Roman", Times, serif;
+}
